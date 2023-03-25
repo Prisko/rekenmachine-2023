@@ -1,0 +1,15 @@
+C:\Users\Prisk\Desktop\School\6InfoA\soft\Rekenmachine\Rekenmachine\bin\Debug\net6.0\Rekenmachine.exe
+C:\Users\Prisk\Desktop\School\6InfoA\soft\Rekenmachine\Rekenmachine\bin\Debug\net6.0\Rekenmachine.deps.json
+C:\Users\Prisk\Desktop\School\6InfoA\soft\Rekenmachine\Rekenmachine\bin\Debug\net6.0\Rekenmachine.runtimeconfig.json
+C:\Users\Prisk\Desktop\School\6InfoA\soft\Rekenmachine\Rekenmachine\bin\Debug\net6.0\Rekenmachine.dll
+C:\Users\Prisk\Desktop\School\6InfoA\soft\Rekenmachine\Rekenmachine\bin\Debug\net6.0\ref\Rekenmachine.dll
+C:\Users\Prisk\Desktop\School\6InfoA\soft\Rekenmachine\Rekenmachine\bin\Debug\net6.0\Rekenmachine.pdb
+C:\Users\Prisk\Desktop\School\6InfoA\soft\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.csproj.AssemblyReference.cache
+C:\Users\Prisk\Desktop\School\6InfoA\soft\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prisk\Desktop\School\6InfoA\soft\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.AssemblyInfoInputs.cache
+C:\Users\Prisk\Desktop\School\6InfoA\soft\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.AssemblyInfo.cs
+C:\Users\Prisk\Desktop\School\6InfoA\soft\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\Prisk\Desktop\School\6InfoA\soft\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.dll
+C:\Users\Prisk\Desktop\School\6InfoA\soft\Rekenmachine\Rekenmachine\obj\Debug\net6.0\ref\Rekenmachine.dll
+C:\Users\Prisk\Desktop\School\6InfoA\soft\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.pdb
+C:\Users\Prisk\Desktop\School\6InfoA\soft\Rekenmachine\Rekenmachine\obj\Debug\net6.0\Rekenmachine.genruntimeconfig.cache
